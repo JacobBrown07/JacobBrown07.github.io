@@ -1,3 +1,8 @@
+a { /* change the appearance of ALL links */
+text-decoration: none;
+color: purple;
+}
+
 .about{
 background-color: rgb(231, 56, 204);
 }
@@ -30,4 +35,16 @@ margin: 10px;
 padding: 20px 10px;
 background-color: rgb(33, 236, 73);
 border-radius: 25%;
+}
+.project img{
+width: 300px;
+height: 300px;
+margin: 10px;
+border: 2px solid rgb(126, 14, 201); /* choose a color */
+display: block;
+margin: auto;
+}
+.project p { /* change the appearance of paragraph tags inside .project divs */
+text-align: center;
+margin: 15px;
 }
