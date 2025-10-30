@@ -37,9 +37,9 @@ background-color: rgb(33, 236, 73);
 border-radius: 25%;
 }
 .project img{
-width: 400;
+width: 200;
 height: 300px;
-margin: 10px;
+margin: 15px;
 border: 2px solid rgb(0, 0, 0); 
 display: block;
 margin: auto;
