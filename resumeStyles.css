@@ -1,0 +1,46 @@
+/* resumeStyles.css */
+
+/* General page styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Contact info header */
+header.contact-info {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+/* Section headings */
+h2 {
+  color: #2c3e50;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 5px;
+  margin-top: 30px;
+}
+
+/* Subheadings for experiences */
+h3 {
+  margin-top: 20px;
+  color: #34495e;
+}
+
+/* Lists */
+ul {
+  margin: 10px 0 20px 20px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+/* Horizontal rule styling */
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 25px 0;
+}
